@@ -1,0 +1,6 @@
+{
+  "error": "error",
+  "success": "success",
+  "not_found": "Breed not found",
+  "not_allowed": "Method Not Allowed"
+}

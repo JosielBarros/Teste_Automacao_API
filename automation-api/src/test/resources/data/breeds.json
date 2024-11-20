@@ -1,0 +1,11 @@
+{
+  "breed": [
+    "bulldog",
+    "invalid_breed"
+  ],
+  "sub_breed": [
+    "boston",
+    "english",
+    "french"
+  ]
+}
